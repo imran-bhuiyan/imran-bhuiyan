@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Md.Abdullah Al Imran
+- 👋 Hi, I’m Md.Abdullah Al Imran
 - 👀 I’m interested in problem solving and building robust projects.
 - 🌱 I’m currently learning Advanced OOP(includes JavaFX)
 - 💞️ I’m looking to collaborate on Java related projects
