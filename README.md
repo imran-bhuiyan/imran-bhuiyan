@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/imran-bhuiyan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=81A1C1&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Imran+%F0%9F%91%8B;Full-Stack+Developer;ML+Enthusiast;Linux+User;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=81A1C1&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Imran+%F0%9F%91%8B;Backend+Developer;ML+Enthusiast;Linux+User;Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
